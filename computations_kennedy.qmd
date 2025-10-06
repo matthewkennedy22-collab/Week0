@@ -1,5 +1,11 @@
 ---
 title: Quarto Computations
+author: Matt Kennedy
+format: 
+    html:
+        toc: true
+        code-fold: true
+        embed-resources: true
 echo: false
 fig-height: 3.5
 fig-width: 6
